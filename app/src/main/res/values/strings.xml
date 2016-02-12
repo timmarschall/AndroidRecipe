@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">AndroidRecipe</string>
+    <string name="button_top">Press to change TextView to "HEEEYYY"</string>
+    <string name="button_down">Press to change TextView to "HOOOOOOO"</string>
+    <string name="text_view">I am a boring TextView</string>
 </resources>
